@@ -13,7 +13,7 @@
     "@react-navigation/native-stack": "^6.9.7",
     "@sanity/client": "^4.0.1",
     "@sanity/image-url": "^1.0.1",
-    "expo": "~47.0.12",
+    "expo": "~53.0.19",
     "expo-status-bar": "~1.4.2",
     "nativewind": "^2.0.11",
     "react": "18.2.0",
